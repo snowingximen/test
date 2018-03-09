@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //do it
+        //change it
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
